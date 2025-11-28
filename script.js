@@ -161,4 +161,9 @@ btnDesencriptar.addEventListener('click', () => {
 
     resultado.classList.remove('error');
     resultado.textContent = desencriptado;
+
+    
 });
+
+
+
